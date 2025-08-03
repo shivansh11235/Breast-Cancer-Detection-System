@@ -36,3 +36,5 @@ Qualitative Metrics:
 -Well-documented and reproducible workflow
 
 -Ethical discussion and limitations clearly addressed
+<img width="746" height="735" alt="image" src="https://github.com/user-attachments/assets/6a274c48-d9e8-4abf-822d-bb164a37fbfd" />
+
